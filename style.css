@@ -1,7 +1,27 @@
+html{
+background-color: white;
+margin: 5rem;
+}
+
+
 body{
 background-color: black;
 color: white;
+display: flex;
+border: solid darkgrey 5px;
+padding: 30px;
+border-radius: 20px;
 
+}
+
+#meuGrafico{
+max-width: 400px;
+max-height: 400px;
+
+}
+
+h1{
+color: white;
 
 
 }
